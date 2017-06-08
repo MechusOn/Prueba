@@ -19,11 +19,9 @@ public class JavaApplication6 {
      */
     public static void main(String[] args) {
 
-    String hola = "cadena"; 
-        System.out.println(hola);
-         
-        String cadena="";
-        
+    metodos me = new metodos ();
+    me.reglade3();
+       
     }
     
 }
